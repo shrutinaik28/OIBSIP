@@ -32,7 +32,9 @@ The scan result screenshot is included in this folder as **Nmap Result.png**.
 
 ## 🎥 Demo Video
 
-The practical demonstration of the Nmap scan is available in **Nmap Practical.mp4**.
+The practical demonstration of the Nmap scan is available on Youtube
+https://youtu.be/fQKWQBs8TCg
+
 
 ## ✅ Conclusion
 

@@ -151,3 +151,6 @@ The script applies the default policies, firewall rules, enables UFW, and displa
 ## Conclusion
 
 UFW was successfully configured on Kali Linux. SSH traffic on port 22 and HTTPS traffic on port 443 were allowed, HTTP traffic on port 80 was denied, and DNS traffic on port 53 was allowed. The final configuration was verified and the HTTP deny rule was tested successfully.
+
+## Youtube
+https://youtu.be/Zf5fTbSa3dQ
